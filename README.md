@@ -1,4 +1,4 @@
 # sqli_demo
 Demo SQLi scripts for Portswigger SQLi labs
 
-Thanks to Rana Khalil for nice tutorials.
+Requires Pytho3 to run.
