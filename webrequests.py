@@ -1,3 +1,4 @@
+#Helper script for Blind SQLi Lab from Portswigger Academy, uses threading and retrieves password in around 30 seconds
 import requests
 from concurrent.futures import ThreadPoolExecutor
 import threading
