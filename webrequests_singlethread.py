@@ -1,4 +1,4 @@
-#No threading hence we'll have to wait a long time to recover the password 
+#Helper script for Blind SQLi lab from Portswigger. No threading hence we'll have to wait a long time to recover the password 
 
 import requests
 
